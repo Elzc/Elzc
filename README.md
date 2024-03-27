@@ -1,4 +1,4 @@
-<h2>Diego <img src="https://www.fg-a.com/flags/animated-croatia-flag.gif" width="25"></h2>
+<h2>Diego <img src="https://www.fg-a.com/flags/animated-german-flag.gif" width="25"></h2>
 <p><em>Fulltime developer in <a href="https://discord.com">Discord Bots</a>
 </br>Console Tester <a href="https://www.vape.gg/">Buy Vape</a>
 </br>CEO of <a href="https://twitter.com">Twitter</a> (Im Elon Musk brother).
